@@ -1,0 +1,18 @@
+pontoon,Crest,Carribean RS 230 SLC,1,Suzuki,115,Blue,26,134595.00,135945.00,1,200,0,250,450,450,0
+fishing,Key West,239 FS,1,Mercury,250,Orange,24,86430.00,87630.00,0,0,250,200,500,250,0
+sport boat,Tahoe,T16,1,Yamaha,300,Yellow,22,26895.00,27745.00,0,250,0,0,350,250,0
+pontoon,Bennington,24 Slx,1,Mercury,140,Brown,24,83299.00,84049.00,1,250,0,200,0,300,0
+kayak,Wilderness Systems,Tarpon 120 SOT,0,None,0,Red/Orange/Yellow,12,999.00,1149.00,0,0,0,0,0,0,150
+pontoon,Suntracker,Bass Buggy 16 XL,1,Suzuki,115,Silver,22,13990.00,14990.00,1,200,0,250,300,250,0
+pontoon,Crest,Classic LX 220 SLC,1,Mercury,115,Green,24,45599.00,47149.00,1,250,350,200,450,300,0
+fishing,Phoenix,Bass Boat 920 Elite,2,Chevrolet,300,Orange,28,46995.00,48195.00,0,0,250,300,400,250,0
+kayak,Eddyline,Rio,0,None,0,Green Apple,12,1429.00,1714.00,0,0,0,0,0,0,285
+canoe,Old Town,Penobscot 164 ,0,None,0,Green,16,1299.95,1524.90,0,0,0,0,0,0,224.95
+canoe,Mad River,Adventure 16,0,None,0,Red,16,899.00,1058.95,0,0,0,0,0,0,159.95
+pontoon,Crest,Classic LX 200 L,1,Yamaha,150,Black,22,31816.00,33016.00,1,200,0,250,450,300,0
+sport boat,Chaparral,297 Surf SSX,2,Chevrolet,300,Purple,24,220079.00,221279.00,0,250,350,0,400,200,0
+fishing,Avenger,AV24,1,Yamaha,115,Gray,28,89995.00,90795.00,0,0,250,0,350,200,0
+sport boat,Sea Ray,SDX 270,2,Chevrolet,300,Blue,28,185113.00,186213.00,0,200,300,0,350,250,0
+fishing,Nitro,Z18 Pro,1,Suzuki,140,Black,30,35585.00,36235.00,0,0,0,0,400,250,0
+pontoon,Bennington,25 Qxfb,1,Mercury,115,White,22,167000.00,168250.00,1,250,0,250,450,300,0
+pontoon,Bentley,200 Cruise,1,Mercury,90,Silver,20,36995.00,37795.00,1,200,350,250,0,0,0
